@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.btn {
+#btn {
 	width: 10em;
     height: 5ex;
     background-color: black;
@@ -10,7 +10,7 @@
     color: white;
     cursor: pointer;	
 }
-.btn:hover{
+#btn:hover{
 	 background-color: yellow;
 	color: black;
 }
